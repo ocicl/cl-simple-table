@@ -1,0 +1,10 @@
+* cl-simple-table
+
+Simple table data structure and functions to work with them. Specially
+useful to play around with tabular data files (like csv or tsv).
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/ebobby/cl-simple-table.git |
+| commit  | e01c597                                           |
+| systems | cl-simple-table                                   |
+|---------+---------------------------------------------------|
