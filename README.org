@@ -8,4 +8,4 @@ useful to play around with tabular data files (like csv or tsv).
 | commit  | e01c597                                           |
 | systems | cl-simple-table                                   |
 |---------+---------------------------------------------------|
- 
+  
